@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clement BASTIEN</h1>
 <h3 align="center">Full-Stack Developer, I specialize in Ruby on Rails and JavaScript. My previous career as a cycle mechanic shaped my rigor, my discipline, and my creativity which I apply in my current projects. Having recently completed in-depth training at the LE Wagon bootcamp, I am motivated to contribute to innovative projects. My ability to adapt quickly and my perseverance are assets that I put to the service of web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clement8426&label=Profile%20views&color=0e75b6&style=flat" alt="clement8426" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clement8426" alt="clement8426" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript / nodeJS**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clement8426&show_icons=true&locale=en&layout=compact" alt="clement8426" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clement8426&show_icons=true&locale=en" alt="clement8426" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clement8426&" alt="clement8426" /></p>
