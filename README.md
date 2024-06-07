@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clement BASTIEN</h1>
-<h3 align="center">Full-Stack Developer proficient in Ruby on Rails and JavaScript, blending technical skills with discipline and creativity from a prior career as a cycle mechanic. Recent graduate of the LE Wagon bootcamp, offering adaptability, perseverance, and a strong motivation to contribute to innovative web development projects.</h3>
+<h3 align="center">Full-stack Developer looking to specialize and continue to progress. I completed a Full-stack development course at Le Wagon, and currently freelancing, I now wish to deepen my coding skills. Passionate about computers and sports, my enthusiasm for technology and computing drives me to take on daily challenges.</h3>
 
 - 🌱 I’m currently learning **Next.js / React / TypeScript**
 
