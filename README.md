@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Clement BASTIEN</h1>
-<h3 align="center">Full-stack Developer looking to specialize and continue to progress. I completed a Full-stack development course at Le Wagon, and currently freelancing, I now wish to deepen my coding skills. Passionate about computers and sports, my enthusiasm for technology and computing drives me to take on daily challenges.</h3>
+<h3 align="center">
+  Web Developer, Project Manager, and Master's Student in Cybersecurity
+</h3>
 
-- 🌱 I’m currently learning **Next.js / React / TypeScript**
+<p align="center">
+  Passionate about technology and eager to take on new challenges, I am a <b>Web Developer</b> and <b>Project Manager</b> at <b>Solead Agency</b>, a web agency based in <b>Paris</b>.
+  In addition to my professional role, I am currently pursuing a <b>Master's in Cybersecurity</b> to expand my expertise and align with the rapidly evolving tech landscape.
+</p>
+
+<p align="center">
+  I have completed a <b>Full-Stack Development course at Le Wagon</b>, which provided me with strong coding foundations. I am now focused on deepening my knowledge in <b>web development</b> and <b>cybersecurity</b>, always striving to grow and adapt to new challenges.
+</p>
+
+<p align="center">
+  ⚡ Outside of work, I’m passionate about <b>computers</b> and <b>sports</b>, and I enjoy pushing my limits to learn and improve every day.
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
